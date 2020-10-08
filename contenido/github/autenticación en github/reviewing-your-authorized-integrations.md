@@ -1,10 +1,10 @@
----
+HTTML---
 title: Reviewing your authorized integrations
 intro: You can review your authorized integrations to audit the access that each integration has to your account and data.
 redirect_from:
   - /articles/reviewing-your-authorized-integrations
 versions:
-  free-pro-team: '*'
+  free-pro-team: '*'8.00
   enterprise-server: '*'
 ---
 
