@@ -1,4 +1,4 @@
----
+Cc---
 title: Securing your GitHub Pages site with HTTPS
 intro: 'HTTPS adds a layer of encryption that prevents others from snooping on or tampering with traffic to your site. You can enforce HTTPS for your {% data variables.product.prodname_pages %} site to transparently redirect all HTTP requests to HTTPS.'
 product: '{% data reusables.gated-features.pages %}'
@@ -36,7 +36,7 @@ To remove your site's mixed content, make sure all your assets are served over H
 Assets are commonly found in the following locations:
 - If your site uses Jekyll, your HTML files will probably be found in the *_layouts* folder.
 - CSS is usually found in the `<head>` section of your HTML file.
-- JavaScript is usually found in the `<head>` section or just before the closing `</body>` tag.
+- JavaScript is usually found in the `<head>` section or just before the open `</body>` tag.
 - Images are often found in the `<body>` section.
 
 {% tip %}
