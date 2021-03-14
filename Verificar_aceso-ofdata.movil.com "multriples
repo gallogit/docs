@@ -4,7 +4,7 @@ intro: 'You can verify the domains controlled by your organization to confirm yo
 redirect_from:
   - /articles/verifying-your-organization-s-domain
   - /articles/verifying-your-organizations-domain
-versions:
+versions:8.0.0
   free-pro-team: '*'
 ---
 
